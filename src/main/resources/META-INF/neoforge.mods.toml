@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Intelli"
+description='''
+Provides block protection for your server.
+NeoForge 1.21.1 port of the CoreProtect plugin.
+'''
